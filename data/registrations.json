@@ -1,0 +1,48 @@
+[
+    {
+        "user": "ram",
+        "event_id": "e1",
+        "event_name": "fest",
+        "event_date": "2025-12-01",
+        "event_location": "pune",
+        "payment": {
+            "method": "CARD",
+            "paid": true,
+            "last4": "4514"
+        }
+    },
+    {
+        "user": "jai",
+        "event_id": "e3",
+        "event_name": "code bootcamp",
+        "event_date": "2025-12-15",
+        "event_location": "pune",
+        "payment": {
+            "method": "CARD",
+            "paid": true,
+            "last4": "7895"
+        }
+    },
+    {
+        "user": "yash",
+        "event_id": "e3",
+        "event_name": "code bootcamp",
+        "event_date": "2025-12-15",
+        "event_location": "pune",
+        "payment": {
+            "method": "COD",
+            "paid": false
+        }
+    },
+    {
+        "user": "yash",
+        "event_id": "e1",
+        "event_name": "fest",
+        "event_date": "2025-12-01",
+        "event_location": "pune",
+        "payment": {
+            "method": "Cash Payment",
+            "paid": false
+        }
+    }
+]

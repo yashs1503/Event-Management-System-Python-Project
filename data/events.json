@@ -1,0 +1,26 @@
+[
+    {
+        "id": "e1",
+        "name": "fest",
+        "date": "2025-12-01",
+        "time": "11:00 AM",
+        "location": "pune",
+        "organizer_id": ""
+    },
+    {
+        "id": "e2",
+        "name": "coding bootcamp",
+        "date": "2025-12-02",
+        "time": "12:00 AM",
+        "location": "pune",
+        "organizer_id": ""
+    },
+    {
+        "id": "e3",
+        "name": "code bootcamp",
+        "date": "2025-12-15",
+        "time": "11:00 AM",
+        "location": "pune",
+        "organizer_id": "o2"
+    }
+]
