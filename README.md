@@ -56,6 +56,8 @@ Python Standard Libraries Used:
 
 ## 📂 Project Structure
 
+---
+
 event-management-system/
 │
 ├── main.py
@@ -87,6 +89,8 @@ event-management-system/
 ---
 
 ## 🔐 Default Admin Login
+
+---
 
 Username: admin
 Password: 1234
