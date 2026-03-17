@@ -47,17 +47,16 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts, **file
 * **File Handling**
 * **Object-Oriented Programming (OOP)**
 
-Python Standard Libraries Used:
+### Python Standard Libraries:
 
 * `json`
 * `getpass`
 
-
+---
 
 ## 📂 Project Structure
 
----
-
+```
 event-management-system/
 │
 ├── main.py
@@ -73,27 +72,28 @@ event-management-system/
 │
 ├── feedback.txt
 └── README.md
+```
 
 ---
 
 ## ⚙️ How the System Works
 
-1. The program starts from **main.py**.
+1. The program starts from **main.py**
 2. The user selects one of the roles:
 
    * Admin
    * Organizer
    * Participant
-3. Based on the role, different functionalities become available.
+3. Based on the role, different functionalities become available
 
 ---
 
 ## 🔐 Default Admin Login
 
----
-
+```
 Username: admin
 Password: 1234
+```
 
 ---
 
@@ -104,13 +104,11 @@ Participants can register for events using:
 * **Cash Payment**
 * **Card Payment (Dummy Validation)**
 
-This simulates a simple payment workflow.
-
 ---
 
 ## 📊 Data Storage
 
-The system stores data using **JSON files**.
+The system stores data using **JSON files**:
 
 * `events.json` → Stores event information
 * `organizers.json` → Stores organizer details
@@ -120,8 +118,6 @@ The system stores data using **JSON files**.
 ---
 
 ## 📈 Learning Outcomes
-
-This project helped practice:
 
 * Python modular programming
 * Object-Oriented Programming
@@ -135,6 +131,3 @@ This project helped practice:
 ## 👨‍💻 Author
 
 **Yash Sawant**
-
-
-
